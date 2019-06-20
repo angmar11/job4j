@@ -1,4 +1,10 @@
-package ru.job4j.calculate;
+package ru.;
+
+/**
+ *Class Calculate 
+ *@author aberyakov
+ *since 20.06.2019
+ */
 
 public class Calculate {
 	
