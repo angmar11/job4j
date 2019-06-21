@@ -7,10 +7,9 @@ package ru.;
  */
 
 public class Calculate {
-	/**
- *Class Calculate 
- *@author aberyakov
- *since 20.06.2019
+ /**
+ * Конструктор, вывод строки в консоль.	
+ * @param arg - arg.
  */
 	
 	public static void main(String[] args) {
