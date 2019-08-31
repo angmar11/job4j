@@ -1,4 +1,4 @@
-package ru.;
+package ru.job4j.calculate;
 
 /**
  *Class Calculate 
@@ -8,8 +8,8 @@ package ru.;
 
 public class Calculate {
  /**
- * Конструктор, вывод строки в консоль.	
- * @param arg - arg.
+ * Method main-главный метод программы, точка входа.	
+ * @param arg - массив аргументов.
  */
 	
 	public static void main(String[] args) {
