@@ -9,7 +9,7 @@ package ru.job4j.calculate;
 public class Calculate {
  /**
  * Method main-главный метод программы, точка входа.	
- * @param arg - массив аргументов.
+ * @param args - массив аргументов.
  */
 	
 	public static void main(String[] args) {
